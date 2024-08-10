@@ -1,0 +1,8 @@
+
+.vscode
+
+.env
+package-lock.json
+request.rest
+/node_modules
+/uploads
